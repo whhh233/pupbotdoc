@@ -117,7 +117,7 @@ export default defineConfig({
       next: '下一页'
     },
     editLink: {
-      pattern: 'https://github.com/dog234/pupbotdoc/edit/main/src/:path',
+      pattern: 'https://github.com/dog234/pupbotdoc/edit/main/docs/src/:path',
       text: '在 GitHub 上编辑'
     }
   }
