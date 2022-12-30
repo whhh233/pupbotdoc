@@ -2,11 +2,13 @@
 - [插件列表](#插件列表)
   - [官方插件](#官方插件)
   - [社区插件](#社区插件)
+  - [插件仓库](./warehouse)
 >社区插件即 npm 插件，由开发者发布的插件。
+>插件仓库 包含所有插件。
 ## 官方插件
 这里列出了官方发布和维护的一系列插件，你可以点击插件名称前往npm仓库，查看插件详细说明和用法。
 
-> 插件标识，即：`/plugin add <name>` 里的 `name`。
+> 插件标识，即：`/p或/plugin add <name>` 里的 `name`。
 - [小爱同学](https://www.npmjs.com/package/pupbot-plugin-ai)，插件标识：`ai`
 - [有道翻译](https://www.npmjs.com/package/pupbot-plugin-youdao)，插件标识：`youdao`
 - [百度百科](https://www.npmjs.com/package/pupbot-plugin-baike)，插件标识：`baike`
@@ -23,4 +25,4 @@
 - [微群管](#),本地插件
 - [自定义](#),本地插件
 ## 社区插件
-- [npm 插件平台](https://www.npmjs.com/search?q=pupbot-plugin)
+- [插件仓库](./warehouse)
