@@ -1,13 +1,23 @@
 {
-  "hash": "52591aa1",
-  "browserHash": "4337cf3e",
+  "hash": "157866b4",
+  "browserHash": "c7fc3561",
   "optimized": {
     "vue": {
       "src": "../../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "cdedeffa",
+      "fileHash": "2b408944",
       "needsInterop": false
+    },
+    "spark-md5": {
+      "src": "../../../../node_modules/spark-md5/spark-md5.js",
+      "file": "spark-md5.js",
+      "fileHash": "c8fb37b1",
+      "needsInterop": true
     }
   },
-  "chunks": {}
+  "chunks": {
+    "chunk-RSJERJUL": {
+      "file": "chunk-RSJERJUL.js"
+    }
+  }
 }

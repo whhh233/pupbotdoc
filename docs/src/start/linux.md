@@ -12,7 +12,7 @@ npm i -g pupbot@latest
 ``` shell
 npm i -g pupbot@latest --registry https://registry.npmmirror.com
 ```
->可能出现全局安装问题，请根据报错解决。
+
 ## 使用CLI 生成配置
 命令行/终端输入：
 ``` shell

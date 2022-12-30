@@ -12,7 +12,7 @@ npm i -g pupbot@latest
 ``` shell
 npm i -g pupbot@latest --registry https://registry.npmmirror.com
 ```
->可能出现全局安装问题，请根据报错解决。
+
 ## 使用 CLI 生成配置
 手动新建文件夹,在`搜索栏/地址栏`输入`cmd`并回车，打开终端。
 
