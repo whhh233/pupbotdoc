@@ -22,6 +22,8 @@
 >By Viki
 - [我要头衔](https://www.npmjs.com/package/pupbot-plugin-title),插件标识：`title`
 - [文字转语音](https://www.npmjs.com/package/pupbot-plugin-say),插件标识：`say`
+- [框架助手](https://www.npmjs.com/package/pupbot-plugin-helper),插件标识：`helper`
+- [内存监控](https://www.npmjs.com/package/pupbot-plugin-mmcard),插件标识：`mmcard`
 - [微群管](#),本地插件
 - [自定义](#),本地插件
 ## 社区插件
