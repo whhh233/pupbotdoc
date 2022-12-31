@@ -31,6 +31,7 @@ export default defineConfig({
           {
             items: [
               { text: 'npm 插件列表', link: 'https://npm.im/search?q=pupbot-plugin' },
+              { text: '插件仓库', link: '/plugin/warehouse' },
               { text: '支持本项目', link: '/support' }
             ]
           }
