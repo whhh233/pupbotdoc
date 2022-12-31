@@ -80,7 +80,7 @@ const pkgs = computed(() => {
 })
 
 const developers = computed(() => {
-  return new Set(...pkgs.value.map(e => e.publisher.username))
+  return new Set(...pkgs.value.map(e => e.author.name))
 })
 
 </script>
